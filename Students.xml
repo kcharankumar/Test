@@ -1,0 +1,12 @@
+<Students>
+  <student>
+    <name>Ravi</name>  
+    <Course>IT</Course>
+    <location>Bangalore</location>
+  </student>
+  <student>
+    <name>Manav</name>  
+    <Course>Mechanical</Course>
+    <location>Bangalore</location>
+  </student>
+</Students>
