@@ -1,0 +1,2 @@
+A new file is created.  Remote respository is set using git remote add
+git pull is used to pull the data or files from the remote server to the local repository.
