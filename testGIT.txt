@@ -6,3 +6,12 @@ This is the fourth line...
 This is the fifth line...
 git add
 git commit
+git status
+git log
+git diff
+git branch
+git merge
+git remote add
+git pull
+git push
+git clone
