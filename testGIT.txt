@@ -16,3 +16,4 @@ git pull
 git push
 git clone
 git remote
+git remote -v
