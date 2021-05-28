@@ -17,4 +17,4 @@ git push
 git clone
 git remote
 git remote -v
-git remote add
+git remote add -- This will add the remote server with local git.  
