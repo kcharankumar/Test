@@ -27,4 +27,5 @@ git ignore --> List the files which needs to be ignored by the Local Repository.
 
 modified the file.. Added by gitHub...
 
+git GUI is there to perform all these operations without typing these commands..
 
