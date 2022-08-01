@@ -21,6 +21,7 @@ git remote
 git remote -v
 git remote add -- This will add the remote server with local git.  
 git remote rm <name> removes the remote location...
+git tag...
 
 git ignore --> List the files which needs to be ignored by the Local Repository.
 
