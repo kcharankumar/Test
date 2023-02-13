@@ -39,8 +39,4 @@ git remote -v --> Gives information on remote repository git link and its name g
  
 git restore --> Removes the file from staging area...
 
-Test
-
-Modified in github...
-
-
+we are checking git pull and git push...
