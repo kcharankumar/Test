@@ -48,3 +48,8 @@ git remote add will connect between local repository and central repository...
 
 .gitignore file helps not to add few files in the local repository.--- Dated : 04-May-2023
 A new line is added on 04-May-2023.
+
+
+git mv --> renames the file in the local repository...
+
+
